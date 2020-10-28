@@ -4,7 +4,7 @@
   "description": "My portfolio",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "https://harshdeeply.github.io/mywebsite",
+  "homepage": "https://harshdeeply.netlify.app/",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
