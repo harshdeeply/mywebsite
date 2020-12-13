@@ -9,7 +9,7 @@ import { useWindowSize } from "../../../utils/hooks"
 import Config from "../../../../config"
 
 const { Content } = Layout
-const { facebook, github, instagram, twitter } = Config.social
+const { facebook, github, instagram, twitter, linkedin } = Config.social
 
 const DomContent = () => (
   <aside>
@@ -47,6 +47,14 @@ const DomContent = () => (
           rel="noopener noreferrer"
         >
           <FA name="github" />
+        </a>
+        <a
+          href={linkedin}
+          target="_blank"
+          label="button"
+          rel="noopener noreferrer"
+        >
+          <FA name="linkedin" />
         </a>
         <a
           href={instagram}
