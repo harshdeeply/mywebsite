@@ -6,9 +6,8 @@ import { stripTags, domHtml } from "../../../utils/stripTags"
 import SEO from "../../Seo"
 
 const pageText = {
-  paraOne: `Hi! My name is Harshdeep Singh. I'm a front-end web developer who is passionate about various modern web technologies. I have an experience of nearly 2 years working with MERN stack and MEAN stack. Apart from that, I love doing photography and dancing with my crew!`,
-  paraTwo: `So far, I have mostly worked with technologies such as ReactJS and NodeJS. I also
-    have hands on experience working with python programming language. </br>My favorite quote is: <b>"Fall seven times, stand up eight."</b>`,
+  paraOne: `Hi! My name is Harshdeep Singh. I'm a detail-oriented, responsible, and committed software developer specializing in front-end tech stacks. I have over 2 years of experience defining requirements, designing, implementing, testing, and delivering software applications using a variety of technologies and programming languages. Apart from that, I love doing photography and dancing with my crew!`,
+  paraTwo: `My favorite quote is: <b>"Fall seven times, stand up eight."</b>`,
 }
 
 const AboutMe = () => {
@@ -57,7 +56,7 @@ const AboutMe = () => {
           <AboutTile
             img="graduation.png"
             alt="graduation image"
-            textH4="Pursuing diploma in"
+            textH4="Pursued diploma in"
             textH3="Computer Information Technology at BCIT"
             height={60}
             width={60}
