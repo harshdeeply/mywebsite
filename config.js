@@ -16,6 +16,7 @@ module.exports = {
     facebook: "https://www.facebook.com/people/Harshdeep-Singh/100041070135810",
     twitter: "https://twitter.com/harshdeeply",
     instagram: "https://www.instagram.com/harshdeepkairon/",
+    linkedin: "https://www.linkedin.com/in/harshdeep-singh-71b98b185/",
   },
   contactFormUrl:
     process.env.CONTACT_FORM_ENDPOINT ||
