@@ -82,10 +82,9 @@ const DomContent = () => (
           <span>
             <FeatherIcon size="19" icon="mail" />
           </span>{" "}
-          <a
+          &nbsp; &nbsp; <a
             href="mailto:&#104;&#97;&#114;&#115;&#104;&#100;&#101;&#101;&#112;&#107;&#97;&#105;&#114;&#111;&#110;&#64;&#121;&#97;&#104;&#111;&#111;&#46;&#99;&#111;&#109;"
-            target="_top"
-          >
+            target="_top">
             <span className={style.emailHider}>@</span>
           </a>
         </li>
