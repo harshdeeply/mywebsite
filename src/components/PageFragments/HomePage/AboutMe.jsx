@@ -56,8 +56,8 @@ const AboutMe = () => {
           <AboutTile
             img="graduation.png"
             alt="graduation image"
-            textH4="Pursued diploma in"
-            textH3="Computer Information Technology at BCIT"
+            textH4="Recently graduated with diploma in CIT"
+            textH3="from BCIT School of Computing and Academic Studies"
             height={60}
             width={60}
           />
