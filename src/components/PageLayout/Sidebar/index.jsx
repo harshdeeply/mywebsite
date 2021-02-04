@@ -65,7 +65,7 @@ const DomContent = () => (
           <FA name="instagram" />
         </a>
       </div>
-      <ul className={`box ${style.badge} contactBlock`}>
+      <ul className={`box ${style.badge} contactBlock`} style={{marginBottom: '0.75rem'}}>
         <li className={`${style.contactBlockItem}`}>
           <span>
             <FeatherIcon size="19" icon="calendar" />{" "}
