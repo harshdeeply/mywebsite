@@ -12,7 +12,6 @@ export default () => (
       <SidebarWrapper>
         <>
           <AboutMe />
-          <br />
           <Skills />
         </>
       </SidebarWrapper>
